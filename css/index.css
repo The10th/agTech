@@ -1,0 +1,18 @@
+.panel-title a {
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+.panel-title a:hover {
+  color: #81e1af;
+}
+.banner-social-buttons .btn {
+  transition: all 0.3s ease;
+}
+.banner-social-buttons .btn:hover {
+  background: transparent;
+  border: 1px solid #81e1af;
+}
+.banner-social-buttons .btn:hover .banner-icon,
+.banner-social-buttons .btn:hover .network-name {
+  color: #ffffff;
+}
